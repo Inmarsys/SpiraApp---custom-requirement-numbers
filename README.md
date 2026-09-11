@@ -1,6 +1,12 @@
 # Custom Requirements Numbering
 
-Copyright Inmarsys Limited. Licensed under the MIT License.
+Copyright Inmarsys Limited. Licensed under the **Inmarsys Non-Resale
+License 1.0** - full text in `LICENSE`. In short: free to use, modify,
+distribute, and host, including within commercial organisations, and
+free to charge for installation/support/hosting services around it -
+just not to sell the Software itself (or a rebadged/modified copy of it)
+as a standalone product, and the Inmarsys copyright notice must stay
+intact. 
 
 A SpiraApp for SpiraTeam / SpiraPlan 9.4.0.0+ that assigns project-unique,
 prefix-based numbers to Requirements, based on their type, and can
@@ -12,8 +18,7 @@ A feedback is appreciated.
 ## General note - warranty
 - The code is AI-generated and therefore may have issues. It was tested by
 human but not formally, therefore no warranty is given or implied.
-- Inmarsys Limited can not be held liable for this SpiraApp failures
-- By using the SpiraApp you're accepting the "as is" SpiraApp functionality
+- See `LICENSE` for specific warranty definitions
 
 ## Compliance note - why this version looks the way it does
 
