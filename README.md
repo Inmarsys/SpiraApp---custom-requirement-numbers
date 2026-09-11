@@ -53,7 +53,15 @@ the requirement form at all, so there is nothing to hide.
 - If a requirement's type is changed to one with a different prefix, a
   fresh number is drawn from the new prefix's counter; the old prefix's
   counter is left exactly where it was.
-- Optionally, the requirement's Name is kept identical to its RNF value.
+- Optionally, the requirement's Name is kept identical to its generated 
+  Prefix/Number value.
+- If **requirements' prefix shall be the same across the project** then 
+  use the same prefix for all requirement types.
+- **Note**: changing a prefix will not lead to automatic renumbering of
+  requirements. The requirements will stay in exact same state they were
+  prior to the change. To bring the requirements numbers to the right state,
+  open each requirement and save it again; then   the requirement will be
+  updated with the new prefix/number
 
 ## Configuration
 
